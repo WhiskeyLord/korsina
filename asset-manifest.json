@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/korsina/static/css/main.41fdc34f.css",
-    "main.js": "/korsina/static/js/main.c864d0bb.js",
+    "main.css": "/korsina/static/css/main.5d2f558c.css",
+    "main.js": "/korsina/static/js/main.37764c7d.js",
     "index.html": "/korsina/index.html",
-    "main.41fdc34f.css.map": "/korsina/static/css/main.41fdc34f.css.map",
-    "main.c864d0bb.js.map": "/korsina/static/js/main.c864d0bb.js.map"
+    "main.5d2f558c.css.map": "/korsina/static/css/main.5d2f558c.css.map",
+    "main.37764c7d.js.map": "/korsina/static/js/main.37764c7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.41fdc34f.css",
-    "static/js/main.c864d0bb.js"
+    "static/css/main.5d2f558c.css",
+    "static/js/main.37764c7d.js"
   ]
 }
